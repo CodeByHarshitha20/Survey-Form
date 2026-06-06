@@ -1,4 +1,4 @@
-# ✅ freeCodeCamp Certified Project - Build a Survey Form
+# freeCodeCamp Certified Project - Build a Survey Form
 Completed as part of freeCodeCamp Responsive Web Design Certification.
 I posted my final project to here as well: https://codepen.io/skbgdqqk-the-lessful/pen/qEqJpQq
 
